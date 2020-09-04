@@ -1,0 +1,9 @@
+F:\test\cake.demo\src\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+F:\test\cake.demo\src\Demo\bin\Debug\netstandard2.0\Demo.dll
+F:\test\cake.demo\src\Demo\bin\Debug\netstandard2.0\Demo.pdb
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.csprojAssemblyReference.cache
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.dll
+F:\test\cake.demo\src\Demo\obj\Debug\netstandard2.0\Demo.pdb
