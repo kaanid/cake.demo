@@ -9,7 +9,7 @@ Task("clean")
 
 Task("restore-nuget-packages")
     .Does(()=>{
-        NuGetRestore("./cake.demo.sln");
+        DotNetCoreRestore("./cake.demo.sln");
     });
 
 /// build task
